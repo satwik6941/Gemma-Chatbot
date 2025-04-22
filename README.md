@@ -22,7 +22,7 @@ Before you get started, ensure you have the following libraries installed:
 ## 🛠️ Setup Instructions  
 
 ### 1️⃣ Get Your API Key  
-- Visit [GroqCloud](https://groqcloud.com) 🌍  
+- Visit [GroqCloud](https://console.groq.com) 🌍  
 - Sign up and **generate an API key** 🔑  
 - Copy the **Model ID** from GroqCloud and paste it into the code at the variable `"model"`  
 
