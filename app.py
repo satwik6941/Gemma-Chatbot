@@ -15,7 +15,7 @@ def random_response(message, history):
                 "content": message,
             }
         ],
-        model="model_ID",
+        model="gemma2-9b-it",
     )
     return chat_completion.choices[0].message.content
 
