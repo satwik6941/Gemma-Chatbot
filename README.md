@@ -1,10 +1,6 @@
 # 🚀 LLM-Based Chatbot Deployment  
 
-Welcome to the **LLM-Based Chatbot** project! This project helps you build a chatbot using a **simple User Interface** and an **open-source LLM**, making AI-powered conversations effortless.  
-
-# 🚀 LLM-Based Chatbot Deployment  
-
-Welcome to the **LLM-Based Chatbot** project! This initiative helps you build a chatbot using a **simple User Interface** and an **open-source LLM**, making AI-powered conversations effortless.  
+Welcome to the **LLM-Based Chatbot** project! This project helps you build a chatbot using a **simple User Interface** and an **open-source LLM**, making AI-powered conversations effortless.   
 
 ## 🧭 Navigator  
 - [📌 Features](#features)  
