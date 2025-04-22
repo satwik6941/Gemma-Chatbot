@@ -1,25 +1,18 @@
-# 🚀 LLM-Based Chatbot Deployment  
+# 🚀 GEMMA Chatbot  
 
-Welcome to the **LLM-Based Chatbot** project! This project helps you build a chatbot using a **simple User Interface** and an **open-source LLM**, making AI-powered conversations effortless.   
+This project helps to build a chatbot using a **simple User Interface** and an **open-source LLM**, making AI-powered conversations effortless. The current chatbot code uses a famous open source LLM model named **Gemma-2 9B model** 
 
-## 🧭 Navigator  
-- [📌 Features](#features)  
-- [📦 Libraries Required](#libraries-required)  
-- [🛠️ Setup Instructions](#setup-instructions)  
-  - [1️⃣ Get Your API Key](#1-get-your-api-key)  
-  - [2️⃣ Configure Your Environment](#2-configure-your-environment)
-- [ℹ️ Learn More](#learn-more) 
 ## 📌 Features  
 - 🖥️ Simple UI for user interaction  
 - 🤖 Powered by an open-source Large Language Model  
 - ⚡ Seamless API integration with **GroqCloud**  
 
-## 📦 Libraries Required  
+## 📦 Libraries Required:  
 Before you get started, ensure you have the following libraries installed:  
 - `gradio` 🎨 (for UI development)  
 - `groq` 🤖 (for connecting with the GroqCloud API)  
 
-## 🛠️ Setup Instructions  
+## 🛠️ Setup Instructions:  
 
 ### 1️⃣ Get Your API Key  
 - Visit [GroqCloud](https://console.groq.com) 🌍  
