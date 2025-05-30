@@ -2,6 +2,9 @@
 
 This project helps to build a chatbot using a **simple User Interface** and an **open-source LLM**, making AI-powered conversations effortless. The current chatbot code uses a famous open source LLM model named **Gemma-2 9B model** 
 
+## 🌐 Try It Online
+You can interact with the GEMMA Chatbot directly in your browser via [Hugging Face Spaces](https://satwik6941-my-first-chatbot.hf.space) 🚀
+
 ## 📌 Features  
 - 🖥️ Simple UI for user interaction  
 - 🤖 Powered by an open-source Large Language Model  
